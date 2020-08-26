@@ -25,7 +25,7 @@ import { HeaderComponent } from './header/header.component';
   ],
   imports: [
     BrowserModule, FormsModule, ReactiveFormsModule,
-    BrowserAnimationsModule, MatInputModule, MatCardModule, MatButtonModule, MatToolbarModule, MatExpansionModule, 
+    BrowserAnimationsModule, MatInputModule, MatCardModule, MatButtonModule, MatToolbarModule, MatExpansionModule,
     AppRoutingModule
   ],
   providers: [],

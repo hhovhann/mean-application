@@ -1,5 +1,5 @@
 import { Component, EventEmitter, Output} from '@angular/core'
-import { Post } from '../model/post';
+import { Post } from '../model/post.model';
 import { NgForm } from '@angular/forms';
 
 @Component({
